@@ -6,6 +6,7 @@
     <packaging>war</packaging>
     <version>8.0</version>
     <name>hello</name>
+         <name> ${artifactId} </name>
     <url>https://github.com/boxfuse/boxfuse-sample-java-war-hello</url>
     <dependencies>
         <dependency>
